@@ -1,16 +1,16 @@
-The PureNexus Project
+The Alliance
 =====================
 
 Getting Started
 ---------------
 
-To build PureNexus from source, you'll need to be familiar with
+To build Alliance from source, you'll need to be familiar with
 [Git and Repo](http://source.android.com/download/using-repo).
 
 
 To initialize your local repository, use this command:
 
-	repo init -u https://github.com/PureNexusProject/manifest.git -b n-mr1
+	repo init -u https://github.com/AllianceRom/manifest.git -b AllianceN
 
 Then to sync source, use this command:
 
@@ -25,9 +25,3 @@ After syncing is done, use these commands to build:
     yyyy= build type (user,userdebug,eng)*
 
     *if no build type is specified "userdebug" is default
-
-Enjoy, Stick around for a while AOSP Building is Fun!!!
-
-[PureNexus Community](https://plus.google.com/u/0/communities/103055954354785266764) on Google+
-
-[PureNexusProject-Legacy](https://github.com/PureNexusProject-Legacy) Old Source and Reference code
